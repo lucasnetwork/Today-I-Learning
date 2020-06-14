@@ -1,0 +1,14 @@
+# Sass
+
+entendi que o sass é um pré compilador do cssl, onde possibilita o uso de variaveis,operações aritimeticas, cadeia de elementos,etc
+
+```bash
+$font-stack:Arial, Helvetica, sans-serif;
+$light-color:#fff;
+$dark-color:#222;
+$font-color:#000;
+body{
+  color:$font-color;
+  font-family:$font-stack
+}
+```
